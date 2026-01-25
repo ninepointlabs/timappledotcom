@@ -20,7 +20,7 @@ I make software that solves my own problems. Sometimes other people find it usef
 
 **trekkie** - Track all 800+ Star Trek episodes in chronological order because watching them randomly is chaos
 
-**abbey** - A GTK4 writing app for Linux in Rust (what happens in Abbey stays in Abbey)
+**writeapp** - Writing application for Linux because sometimes you just need to write without distractions
 
 ## Tech I Use
 
