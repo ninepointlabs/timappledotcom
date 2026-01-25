@@ -1,68 +1,42 @@
-# Hey there! 👋 I'm Tim
+# Tim
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Lifelong+Student;Python+Enthusiast;Open+Source+Advocate;IndieWeb+Explorer;Vibe+Coder" alt="Typing SVG" />
-</div>
+I make software that solves my own problems. Sometimes other people find it useful too.
 
-## 🚀 About Me
+## What I'm Building
 
-🖖 **Closet Trekkie**: Built "trekkie" to track 800+ Star Trek episodes in chronological order - Live Long and Prosper, and may your code compile on the first try
+**rubdupe** - Finding duplicate files in Ruby because I ran out of disk space again
 
-🎧 **Podcast Hoarder**: Created "bapp" because apparently the world needed another podcast app (currently in the prestigious "works on my machine" phase)
+**tfz** - Terminal RSS reader that actually renders the full article (novel concept, I know)
 
-💪 **Fitness Procrastinator**: Made "Swole-Timer" to time my workouts - now I have no excuse except pure laziness
+**sendit-cli** - Post to Micro.blog and X at once because copying and pasting is for chumps
 
-🤖 **AI Tinkerer**: Cooking up "autonomix" because I'm too lazy to do things myself (see a pattern here?)
+**fm-cli** - Terminal email client for Fastmail using JMAP (Go)
 
-🏛️ **Digital Monk**: Built "Abbey" - what happens there stays in the repo
+**mb-cli** - Pretty CLI for Micro.blog posting (Go)
 
-📊 **Manager of Managers**: "MB-Manager" exists because I needed to manage... something. Still figuring out.
+**jrnl-droid** - Android journaling app that plays nice with jrnl.sh and Syncthing
 
-🔐 **Reformed Script Kiddie**: Graduated from SANS Cyber Security Academy (they actually gave me a certificate!)
+**Primal-Pal** - Fitness app that bugs me to do random exercises (greasing the groove style)
 
-🐧 **Linux Evangelist**: Will judge your OS choice, but I'll do it with a smile and offer you help switching distros
+**trekkie** - Track all 800+ Star Trek episodes in chronological order because watching them randomly is chaos
 
-## 🛠️ Tech Stack
+**abbey** - A GTK4 writing app for Linux in Rust (what happens in Abbey stays in Abbey)
 
-<div align="center">
+## Tech I Use
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Ruby, Go, Flutter/Dart, and a sprinkle of web stuff (HTML/CSS/JS) when necessary
 
-</div>
+## What I'm Into
 
-## 🔍 Current Focus
+Building CLI applications that live in the terminal where they belong. Making Nostr tools because decentralized social networking is interesting. Tinkering with IndieWeb tech because owning your content matters. Creating Android apps mostly for myself, occasionally for others.
 
-- 🎓 **Learning**: More about AI prompting.
-- 🔧 **Building**: Linux desktop apps and tools.
-- 📚 **Exploring**: OSINT techniques and pen testing
-- 🌱 **Growing**: My understanding of threat intelligence
+Linux user who will absolutely judge your OS choice but offer to help you switch distros anyway.
 
+## Where to Find Me
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-### 🌐 [timapple.com](https://timapple.com)
-
-<a href="https://x.com/timappledotcom" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://micro.blog/timapple" target="_blank"><img src="https://img.shields.io/badge/-FF8800?style=for-the-badge&logo=microdotblog&logoColor=white" alt="Micro.blog"/></a>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=timappledotcom&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <i>💡 "Security is not a product, but a process" - Bruce Schneier</i>
-</div>
+**Web**: [timapple.com](https://timapple.com)  
+**Micro.blog**: [@timapple](https://micro.blog/timapple)  
+**X**: [@timappledotcom](https://x.com/timappledotcom)
 
 <!---
 timappledotcom/timappledotcom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
