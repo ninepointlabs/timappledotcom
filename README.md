@@ -26,6 +26,10 @@ I make software that solves my own problems. Sometimes other people find it usef
 
 Ruby, Go, Flutter/Dart, and a sprinkle of web stuff (HTML/CSS/JS) when necessary
 
+## My Setup
+
+Running Omarchy and Cosmic desktops on Linux because vanilla GNOME is for people who don't like fun. Code lives in VSCode and Neovim depending on whether I'm feeling GUI-ish or terminal-purist that day.
+
 ## What I'm Into
 
 Building CLI applications that live in the terminal where they belong. Making Nostr tools because decentralized social networking is interesting. Tinkering with IndieWeb tech because owning your content matters. Creating Android apps mostly for myself, occasionally for others.
