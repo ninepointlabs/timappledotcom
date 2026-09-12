@@ -13,7 +13,7 @@
 [![Website](https://img.shields.io/badge/ninepointlabs.com-0F6B6E?style=for-the-badge&logo=rubyonrails&logoColor=FAF6EF&labelColor=23272B)](https://ninepointlabs.com)
 [![Email](https://img.shields.io/badge/hello%40ninepointlabs.com-0F6B6E?style=for-the-badge&logoColor=FAF6EF&labelColor=23272B)](mailto:hello@ninepointlabs.com)
 [![Nostr](https://img.shields.io/badge/%E2%9C%A6%20Nostr-0F6B6E?style=for-the-badge&logoColor=FAF6EF&labelColor=23272B)](https://njump.me/npub13hyx3qsqk3r7ctjqrr49uskut4yqjsxt8uvu4rekr55p08wyhf0qq90nt7)
-[![Micro.blog](https://img.shields.io/badge/%40timapple-0F6B6E?style=for-the-badge&logo=microdotblog&logoColor=FAF6EF&labelColor=23272B)](https://micro.blog/timapple)
+[![X](https://img.shields.io/badge/%40ninepointlabs-0F6B6E?style=for-the-badge&logo=x&logoColor=FAF6EF&labelColor=23272B)](https://x.com/ninepointlabs)
 
 </div>
 
@@ -224,8 +224,8 @@ Most of them reach my projects through **MCP servers** I wrote — [ninepointlab
 
 ### ✦ Elsewhere
 
-[**ninepointlabs.com**](https://ninepointlabs.com) — projects, blog and journal
-· [**Micro.blog**](https://micro.blog/timapple)
+[**ninepointlabs.com**](https://ninepointlabs.com) — projects, blog and journal, all in one place
+· [**X**](https://x.com/ninepointlabs)
 · [**Nostr**](https://njump.me/npub13hyx3qsqk3r7ctjqrr49uskut4yqjsxt8uvu4rekr55p08wyhf0qq90nt7)
 · [**hello@ninepointlabs.com**](mailto:hello@ninepointlabs.com)
 
